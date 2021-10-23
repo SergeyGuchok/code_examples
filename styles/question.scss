@@ -1,0 +1,18 @@
+.file-uploader {
+  img {
+    object-fit: contain;
+    position: static !important;
+    height: auto !important;
+    width: auto !important
+  }
+
+  div {
+    position: static !important;
+  }
+}
+
+.select-input__radio {
+  margin: 0 10px;
+  transform: scale(1.5);
+}
+
